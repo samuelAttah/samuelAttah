@@ -1,6 +1,6 @@
 # Samuel Attah
 
-### Hello World!
+### Hello World! 🌍
 
 I'm Samuel Attah, a software developer in Nigeria 🇳🇬  passionate about solving problems with technology and creating different solutions. 
 
