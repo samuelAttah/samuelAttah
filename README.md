@@ -14,7 +14,7 @@ I'm Samuel Attah, a software developer in Nigeria 🇳🇬  passionate about sol
 ### Feel free to reach me or know more about me. 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-attah-56a49a141/)
-- 📧 [Email](sammy.attah16@gmail.com)
+- 📧 [Email](https://mail.google.com/sammy.attah16@gmail.com)
 - ✉ [Instagram](https://www.instagram.com/official_elmagnifico/)
 
 ### Collaborations
