@@ -7,7 +7,7 @@ I'm Samuel Attah, a software developer in Nigeria 🇳🇬  passionate about sol
 ### I work with the following languages and technologies:
 
 - Python | Javascript | TypeScript
-- MongoDB | Express| Reactjs | React Native | Node
+- PostgreSQL | MongoDB | Express| Reactjs | React Native | Node
 - Django | Django Rest framework
 - Numpy | Pandas | Sklearn
 
